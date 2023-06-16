@@ -1,11 +1,11 @@
 #include <unistd.h>
 
 /**
- * main
+ * main - c'est une fonction
  *
- * description
+ * description: c'est la description
  *
- * return: 1
+ * Return: 1 (error).
  *
 */
 

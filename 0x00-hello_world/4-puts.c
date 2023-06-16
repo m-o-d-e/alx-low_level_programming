@@ -1,12 +1,14 @@
 #include <stdio.h>
 
 /**
- * main
+ * main -fonction
  *
- * Description : A C program
+ * description: un description
  *
- * Return:0
+ * Return: 0 (error).
+ *
 */
+
 int main(void)
 {
 
