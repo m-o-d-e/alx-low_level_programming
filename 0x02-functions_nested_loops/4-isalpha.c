@@ -6,9 +6,10 @@
  * @c: argument
  *
  * Description: Task 4
+ * Return: 0 or 1
  */
 
-void _isalpha(int c)
+int _isalpha(int c)
 {
 	if (c >= 97 && c <= 122)
 		return (1);

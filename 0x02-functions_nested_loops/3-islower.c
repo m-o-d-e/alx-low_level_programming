@@ -6,6 +6,7 @@
  * @c: the caractere to check
  *
  * Description: Task 3
+ * Return: 0 or 1
  */
 
 int _islower(int c)
