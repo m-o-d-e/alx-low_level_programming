@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * swap_int - just f
- * @a: The var
- * @b: the other var
+ * swap_int - swaps the values of two integers
+ *		using two input parameters
  *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
- */
+ * @a: input parameter 1
+ * @b: input parameter 2
+ *
+ * Return: Nothing
+*/
+
 void swap_int(int *a, int *b)
 {
 	int temp;
 
 	temp = *a;
 	*a = *b;
-	*b = temp
-
+	*b = temp;
 }
