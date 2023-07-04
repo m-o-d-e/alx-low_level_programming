@@ -4,7 +4,7 @@
  * *_strchr - A function.
  * @s: arg1
  * @c: arg2
- * Return: A pointer 
+ * Return: A pointer
  */
 
 char *_strchr(char *s, char c)
